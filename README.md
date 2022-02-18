@@ -1,0 +1,2 @@
+# RHCSA_Configure_RHEL_8_Network_Part_2
+RHCSA_Configure_RHEL_8_Network_Part_2
